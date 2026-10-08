@@ -82,7 +82,7 @@ _Add your numbers here after running `train.py` (image AUROC / pixel AUROC per c
 
 ## Team
 
-Built by Kunal Meena (SIT Pune) for Synapse. Add teammates here.
+Built by Kunal Meena,Atharv Shukla ,Soujany Agnihotri and Jiya (SIT Pune) for Synapse. 
 
 ## License
 
