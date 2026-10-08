@@ -1,8 +1,8 @@
-# 🔍 AutoInspect AI
+# 🔍 SmartInspect AI
 
 AI-powered visual quality inspection for automotive component manufacturing, built for the **Synapse** hackathon.
 
-AutoInspect learns what a *good* part looks like and flags anything that deviates, with a heatmap showing **where** the defect is. It needs **no defect labels** for training, which matters on a real assembly line where defect samples are rare.
+SmartInspect learns what a *good* part looks like and flags anything that deviates, with a heatmap showing **where** the defect is. It needs **no defect labels** for training, which matters on a real assembly line where defect samples are rare.
 
 ## How it works
 
